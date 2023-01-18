@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Hi there 👋
 ---
-
-## Hi there 👋
 
 **Let's build some open source apps together!**
 
