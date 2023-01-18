@@ -2,29 +2,17 @@
 layout: post
 title: "Welcome to Open Incubator!"
 date: 2023-01-18 18:57:13 +0530
-categories: jekyll update
+categories: Open Incubator update
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+**Let's build some open source apps together!**
 
-Jekyll requires blog post files to be named according to the following format:
+🙋‍♀️ A short introduction - There is a lot of open source code useful for devs etc but we want to build open source apps that end users could deploy and directly use
 
-`YEAR-MONTH-DAY-title.MARKUP`
+🌈 Contribution guidelines - As a starting step, we are trying to come up with refined ideas, that the community can pick from and start building
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+👩‍💻 Useful resources - Get started with the 1000AppIdeas repo and see if you can help us improve those ideas
 
-Jekyll also offers powerful support for code snippets:
+🍿 Fun facts - We just started on this on Monday, 9th Jan 2023, so it's kind of new
 
-{% highlight ruby %}
-def print_hi(name)
-puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+🧙 But you have the power to make the magic work!
