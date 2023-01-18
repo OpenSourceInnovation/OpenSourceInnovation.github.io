@@ -23,7 +23,6 @@ email: opensourceinnovation@gluelabs.com
 description: Incubating open source projects powered by community.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://www.openincubator.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: OpenSourceInnovation
 github_username: OpenSourceInnovation
 
 # Build settings
